@@ -32,7 +32,7 @@
         </div>
       </div>
     </div>
-      <h5 class="mt-5">UNITED ARAB EMIRATES (UAE)</h5>
+      <h5 class="mt-5"><span class="flag-icon flag-icon-ae mr-2"></span> UNITED ARAB EMIRATES (UAE)</h5>
     <div class="row clientslide">
       <div class="col-lg-2">
         <a href="#">
@@ -107,7 +107,7 @@
     =====================================-->
   <section id="clientpart">
     <div class="container">
-            <h5>SAUDI ARABIA</h5>
+            <h5><span class="flag-icon flag-icon-sa mr-2"></span> SAUDI ARABIA</h5>
       <div class="row clientslide">
         <div class="col-lg-2">
           <a href="#">
@@ -182,7 +182,7 @@
       =====================================-->
     <section id="clientpart">
       <div class="container">
-        <h5>MALAYSIA</h5>
+        <h5><span class="flag-icon flag-icon-my mr-2"></span> MALAYSIA</h5>
         <div class="row clientslide">
           <div class="col-lg-2">
             <a href="#">
@@ -257,7 +257,7 @@
         =====================================-->
       <section id="clientpart">
         <div class="container">
-          <h5>QATAR</h5>
+          <h5><span class="flag-icon flag-icon-qa mr-2"></span> QATAR</h5>
           <div class="row clientslide">
             <div class="col-lg-2">
               <a href="#">

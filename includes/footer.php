@@ -54,10 +54,10 @@
               <h6>Links</h6>
               <ul>
                 <li>
-                  <a href="#">Consultation</a>
+                  <a href="post_demand.php">Post Demand</a>
                 </li>
                 <li>
-                  <a href="#">Investments</a>
+                  <a href="post_resume.php">Post Resume</a>
                 </li>
                 <li>
                   <a href="#">Questions</a>
@@ -131,6 +131,8 @@
 <script src="js/vendor/venobox.min.js"></script>
 <!-- Contact js -->
 <script src="js/contact.js"></script>
+
+<script src="js/docs.js"></script>
 <!--    script js-->
 <script src="js/script.js"></script>
 </body>

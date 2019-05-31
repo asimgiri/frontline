@@ -7,7 +7,7 @@
 	<meta name="keywords" content="Html5, Htm5 Template, html, html5, html5 template,  landing page, landing page Business Template, Corporate template, Corporate website, business website, responsive template, bootstrap">
 	<meta name="description" content="Bprime - Business Consulting and Professional Services HTML Template, validation by w3c, crocs bourse support, light weight landing page and responsive website. Using last version of bootstrap.">
 	<title>Frontline Recruitment Pvt. Ltd.</title>
-	<link rel="icon" href="images/logo/b.png">
+	<link rel="icon" href="images/logo/favicon.png">
 
 	<link rel="stylesheet" type="text/css" href="font/flaticon.php">
 	<!--    bootstrap css -->
@@ -15,10 +15,13 @@
 
 	<!--    fontawesome css -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
+
 	<!--    venobox css -->
 	<link rel="stylesheet" href="css/plugin/venobox.css">
+
 	<!-- owl carosul -->
 	<link rel="stylesheet" href="css/owl.carousel.css">
+
 	<link rel="stylesheet" href="css/owl.transitions.css">
 	<!--    slick  css -->
 	<link rel="stylesheet" href="css/plugin/slick-theme.css">
@@ -26,9 +29,15 @@
 	<link rel="stylesheet" href="css/plugin/slick.css">
 	<!--    style css -->
 	<link rel="stylesheet" href="css/style.css">
+
 	<link rel="stylesheet" href="css/contactus.css">
 	<!--    responsive css-->
 	<link rel="stylesheet" href="css/responsive.css">
+
+	<link rel="stylesheet" href="css/flag-icon.css">
+
+	<link rel="stylesheet" href="css/docs.css">
+
 </head>
 
 <body class="for-s1">
@@ -115,7 +124,7 @@
 										<a class="nav-link" href="blog.php">Blog</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="events.php">Events</a>
+										<a class="nav-link" href="categories.php">Categories</a>
 									</li>
 									<li class="nav-item">
 										<a class="nav-link" href="contactus.php">Contact</a>

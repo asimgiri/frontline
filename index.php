@@ -1,6 +1,5 @@
 <?php include 'includes/header.php'; ?>
 
-
 	<!-- Start Slider Area -->
 	<div class="intro-area">
 		<div class="intro-carousel">
@@ -75,7 +74,7 @@
 
 	<!--================================
 					About area start
-			====================================-->
+  ====================================-->
 	<section id="about">
 		<div class="container">
 			<div class="row">
@@ -114,12 +113,12 @@
 	</section>
 	<!--================================
 					About area End
-			====================================-->
+	===================================-->
 
-			<!--=================================
+	<!--=================================
 			       client part start
-			   =====================================-->
-			<section id="clientpart">
+	 =====================================-->
+	<section id="clientpart">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-md-10 col-lg-8">
@@ -195,13 +194,13 @@
 						</a></p>
 					</div>
 				</section>
-			<!--=================================
+	<!--=================================
 			       client part End
-			   =====================================-->
+ =====================================-->
 
 	<!--================================
 						service part start
-				=====================================-->
+	=====================================-->
 	<section id="servicepart">
 		<div class="container">
 			<div class="row justify-content-center">
@@ -503,5 +502,25 @@
 		</div>
 	</section>
 	<!--blog part END-->
+
+	<!--==================================
+				fixed button part start
+		======================================-->
+
+		<div class="fixed_link">
+			<a href="post_demand.php" class="demand"><img src="images/icons/human-resources.png" alt="" width="30px" class="mr-3">Post Demand</a>
+			<a href="post_resume.php" class="resume"><img src="images/icons/demand.png" alt="" width="35px" class="mr-3">Post Resume</a>
+		</div>
+
+
+
+
+
+		<!--==================================
+					fixed button part end
+			======================================-->
+
+
+
 
 	<?php include 'includes/footer.php'; ?>
