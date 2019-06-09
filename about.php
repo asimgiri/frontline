@@ -28,7 +28,7 @@
 				<div class="row justify-content-center">
 					<div class="col-md-10 col-lg-10">
 						<div class="text-center">
-							<h2>About Frontline Recruitment</h2>
+							<h2 class="title">About Frontline Recruitment</h2>
 							<h6>Frontline Recruitment is a licensed and accredited recruitment agency in Nepal certified by the Department of Foreign employment, Ministry of Labor & Transport Management and Government of Nepal with business license number 886.067.068. </h6>
 						</div>
 					</div>
@@ -75,7 +75,7 @@
 			====================================-->
 
 
-      
+
 
 
 	<?php include 'includes/footer.php'; ?>

@@ -18,7 +18,7 @@
 
 <section class="categories">
   <div class="container">
-    <h2 class="mt-3">Categories of Workers Available Through Frontline Recruitment</h2>
+    <h2 class="mt-3 title">Categories of Workers Available Through Frontline Recruitment</h2>
 
     <div class="row">
       <div class="col-md-12 text-justify mt-5">

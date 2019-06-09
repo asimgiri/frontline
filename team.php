@@ -30,7 +30,7 @@
 					<div class="row justify-content-center">
 						<div class="col-md-10 col-lg-8">
 							<div class="text-center">
-								<h2>STAFF Members</h2>
+								<h2 class="title">STAFF Members</h2>
 								<p class="s-h-p">The Staff of Frontline ensures the management and cognitive workability on the devised sectors and empowers the sustainable progression of the agency.</p>
 							</div>
 						</div>

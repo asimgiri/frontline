@@ -95,7 +95,7 @@ h4 {
 }
 
 .btn-regular {
-  background-color: #1F476C !important;
+  background-color: #68BBE7 !important;
   color: #fff !important;
 }
 
@@ -521,7 +521,7 @@ navbar css end
 }
 
 .ready-btn {
-  background-color: #1F476C;
+  border: 2px solid #fff;
   color: #ffffff;
   display: inline-block;
   text-align: center;
@@ -865,6 +865,7 @@ why-choose-us part end
 }
 
 .contant h4 {
+  color: #555;
   font-size: 20px;
   font-weight: 500;
   margin: 10px 0px;
@@ -915,7 +916,7 @@ a.btn-detail:hover {
 }
 
 .slick-dots li.slick-active button {
-  background: #1F476C;
+  background: #68BBE7;
   border: 1px solid #1F476C;
 }
 
@@ -957,6 +958,7 @@ our service part css end
 
 #about .about-f-p {
   margin-bottom: 21px;
+  color: #555;
 }
 
 #about .about-img {
@@ -1036,7 +1038,7 @@ our service part css end
 }
 
 .about-links .link {
-  background-color: #1F476C;
+  background-color: #68BBE7;
   color: #ffffff;
   display: inline-block;
   text-align: center;
@@ -1384,6 +1386,7 @@ counter part end
   font-weight: 500;
   margin-top: 24px;
   margin-bottom: 6px;
+  color: #68BBE7;
 }
 
 .testimonial h5 {
@@ -1473,7 +1476,7 @@ testimonial part end
 
 .team_slider_item_info {
   position: absolute;
-  background: rgba(31, 7, 108, .5);
+  background: rgba(104,187,231,.6);
   width: 100%;
   top: 0;
   height: 100%;
@@ -2302,7 +2305,7 @@ preloader css end
 }
 
 #contact-main .contact-address {
-  background: #1F476C;
+  background: #68BBE7;
   padding: 50px 30px;
 }
 
@@ -3230,7 +3233,7 @@ position: fixed;
 transition: 0.3s;
 text-decoration: none;
 color: #fff;
-background: #1F476C;
+background: #9EB51D;
 padding: 20px 0 20px 20px;
 width: 200px;
 z-index: 99;
@@ -3329,3 +3332,14 @@ border-bottom-left-radius: 10px;
 .s-aside ul li:hover a {
   margin-left: 5px;
 }
+
+/* ---------------------------    6/9/2019    ------------------------------- */
+
+  .title{
+    color: #68BBE7;
+  }
+
+
+
+
+/* ---------------------------    6/9/2019    ------------------------------- */

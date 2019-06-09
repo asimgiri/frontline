@@ -27,7 +27,7 @@
     <div class="row justify-content-center">
       <div class="col-md-10 col-lg-8">
         <div class="text-center">
-          <h2>OUR VALUABLE CLIENTS</h2>
+          <h2 class="title">OUR VALUABLE CLIENTS</h2>
           <p class="s-h-p">We serve our clients at UNITED ARAB EMIRATES (UAE), MALAYSIA, QATAR and SAUDI ARABIA. The lists of clients at various countries are listed below:</p>
         </div>
       </div>

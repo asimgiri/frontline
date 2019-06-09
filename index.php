@@ -82,7 +82,7 @@
 				<!-- About Text -->
 				<div class="col-lg-6">
 					<div class="info">
-						<h4>Overview</h4>
+						<h4 class="title">Overview</h4>
 						<h6 class="about-f-p">
 							Frontline Recruitment is a licensed and accredited recruitment agency in Nepal certified by the Department of Foreign employment, Ministry of Labor & Transport Management and Government of Nepal with business license number 886.067.068.
 						</h6>
@@ -123,7 +123,7 @@
 						<div class="row justify-content-center">
 							<div class="col-md-10 col-lg-8">
 								<div class="text-center">
-									<h2>Our Clients</h2>
+									<h2 class="title">Our Clients</h2>
 									<p class="s-h-p">We serve our clients at UNITED ARAB EMIRATES (UAE), MALAYSIA, QATAR and SAUDI ARABIA. The lists of clients at various countries are listed below:</p>
 								</div>
 							</div>
@@ -205,7 +205,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8 text-center mt-4">
-					<h2>services we provide</h2>
+					<h2 class="title">services we provide</h2>
 					<p class="s-h-p">We provide diverse services for the ease and beneficiary of the candidates as briefed below:</p>
 				</div>
 			</div>
@@ -352,7 +352,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2>Our Clients Say</h2>
+						<h2  class="title">Our Clients Say</h2>
 						<p class="s-h-p">Lorem ipsum dolor sit amet, lorem nibh lectus urna arcu, lorem erat semper, auctor suspendisse
 							quisque molestie ut.
 							Elit massa dui, leo enim magna. Cursus maecenas cubilia.</p>
@@ -409,7 +409,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">Recent Post</h2>
+						<h2 class="section-heading title">Recent Post</h2>
 						<p class="s-top-p">Lorem ipsum dolor sit amet, lorem nibh lectus urna arcu, lorem erat semper, auctor suspendisse
 							quisque molestie ut.
 							Elit massa dui, leo enim magna. Cursus maecenas cubilia.</p>

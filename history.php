@@ -28,7 +28,7 @@
 				<div class="row justify-content-center">
 					<div class="col-md-10 col-lg-10">
 						<div class="text-center">
-							<h2>Our History</h2>
+							<h2 class="title">Our History</h2>
 						</div>
 					</div>
 				</div>
